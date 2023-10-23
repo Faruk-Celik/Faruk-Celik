@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋, I'am Faruk Çelik
 <h3 align="center">Jr. Full Stack .Net developer from Turkiye</h3>
 
 
