@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on improving myself.<br>🌱 I’m currently learning Web Developing. <br>🤝 I’m looking for help with exploring new technologies.<br>💬 Ask me about any developing releated stuff.<br>⚡ Fun fact I like to play leauge of legend. 
+🔭 I’m currently working on self improving.<br>🌱 I’m currently learning Web Developing. <br>🤝 I’m looking for help with exploring new technologies.<br>💬 Ask me about any developing releated stuff.<br>⚡ Fun fact I like to play leauge of legend. 
 
 
 <h3 align="left">Connect with me:</h3>
