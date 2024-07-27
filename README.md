@@ -1,6 +1,6 @@
 <h1> Hi👋 I'm Faruk Çelik</h1>
  <h2 align="center">Jr .Net Developer From TURKIYE</h2>
-
+</br>
 -💬 Curious? Just ask!<br>
 
 -👨‍💻 All of my projects are available at <a href="https://celikfaruk.com/">celikfaruk.com</a>
