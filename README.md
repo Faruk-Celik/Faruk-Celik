@@ -1,12 +1,10 @@
-<h1> Hi👋 I'm Faruk Çelik</h1>
- <h2 align="center">Jr .Net Developer From TURKIYE</h2>
-</br>
+<h1> Hi👋 I'm Faruk Çelik</h1><br>
+ <h2 align="center">Jr .Net Developer From TURKIYE</h2><br>
 -💬 Curious? Just ask!<br>
+-👨‍💻 All of my projects are available at <a href="https://celikfaruk.com/">celikfaruk.com</a><br>
 
--👨‍💻 All of my projects are available at <a href="https://celikfaruk.com/">celikfaruk.com</a>
 
-
-<h3 align="left">Contact me:</h3>
+<h3 align="left">Contact me:</h3><br>
 
 <p align="left">
 <a href="https://twitter.com/ahmet48faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmet48faruk" height="30" width="40" /></a>
