@@ -1,5 +1,7 @@
-### Hi👋 I'm Faruk Çelik
-<h3 align="center">Jr. Full Stack .Net developer from Turkiye</h3>
+<h1> Hi👋 
+ I'm Faruk Çelik</h1>
+ 
+<h2 align="center">Jr. FullStack .Net Developer From TURKIYE</h2>
 
 -💬 Curious? Just ask!<br>
 -👨‍💻 All of my projects are available at <a href="https://celikfaruk.com/">celikfaruk.com</a>
