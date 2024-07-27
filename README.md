@@ -1,7 +1,7 @@
 <h1> Hi👋 
  I'm Faruk Çelik</h1>
  
-<h2 align="center">Jr. Full Stack .Net Developer From TURKIYE</h2>
+ # <h2 align="center">Jr. Full Stack .Net Developer From TURKIYE</h2>
 
 -💬 Curious? Just ask!<br>
 
