@@ -1,6 +1,5 @@
-<h1> Hi👋    I'm Faruk Çelik</h1>
- 
- # <h2 align="center">Jr .Net Developer From TURKIYE</h2>
+<h1> Hi👋 I'm Faruk Çelik</h1>
+ <h2 align="center">Jr .Net Developer From TURKIYE</h2>
 
 -💬 Curious? Just ask!<br>
 
