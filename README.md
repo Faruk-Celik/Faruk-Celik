@@ -2,7 +2,7 @@
 <h3 align="center">Jr. Full Stack .Net developer from Turkiye</h3>
 
 -💬 Curious? Just ask!<br>
--👨‍💻 All of my projects are available at [celikfaruk.com](celikfaruk.com)
+-👨‍💻 All of my projects are available at <a href="https://celikfaruk.com/">celikfaruk.com</a>
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
