@@ -12,7 +12,7 @@
 
 <p align="left">
 <a href="https://twitter.com/ahmet48faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmet48faruk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faruk-celik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faruk-celik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmet-faruk-celik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faruk-celik" height="30" width="40" /></a>
 <a href="https://fb.com/faruk.celik.5070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faruk.celik.5070" height="30" width="40" /></a>
 <a href="https://instagram.com/faruk_celik_48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faruk_celik_48" height="30" width="40" /></a>
 </p>
