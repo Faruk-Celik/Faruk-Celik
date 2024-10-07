@@ -3,7 +3,7 @@
 <br>
 
 
--💬 Contact Me For Anything About Software! <a>ahmet48.faruk@gmail.com</a>
+-💬 Ask Me For Anything About Software! <a>ahmet48.faruk@gmail.com</a>
 
 
 
