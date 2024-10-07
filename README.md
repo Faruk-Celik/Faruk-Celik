@@ -3,9 +3,8 @@
 <br>
 
 
--💬 Curious? Just ask!
+-💬 Contact Me For Anything About Software! <a>ahmet48.faruk@gmail.com</a>
 
--👨‍💻 All of my projects are available at <a href="https://celikfaruk.com/">celikfaruk.com</a><br>
 
 
 <h3 align="left">Contact me:</h3>
